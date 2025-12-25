@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Alimuhammadi
-- 👀 I’m passionate about Web Development, 3D on the Web, and low-level/system programming
+- 👀 I’m passionate about ML & Data Science, Web Development, 3D on the Web
 - 🌱 Currently diving deeper into Software Engineering concepts to sharpen my skills
 - 😄 Pronouns: Draco TLW
 
