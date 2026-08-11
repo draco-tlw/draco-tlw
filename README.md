@@ -1,9 +1,7 @@
-- 👋 Hi, I’m Muhammad Alimuhammadi
-- 👀 I’m passionate about ML & Data Science, Web Development, 3D on the Web
-- 🌱 Currently diving deeper into Software Engineering concepts to sharpen my skills
-- 😄 Pronouns: Draco TLW
+### Hi, I'm Muhammad Alimuhammadi (Draco TLW)
 
-<!---
-mr-alimuhammadi/mr-alimuhammadi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software engineer focused on learning and building with Machine Learning & Computer Vision.
+
+- **Focus:** Machine Learning, Computer Vision & Reinforcement Learning
+- **Background:** Full-Stack Web Development (TypeScript, Node.js) & Systems (Rust, Go)
+- **OS:** Linux
